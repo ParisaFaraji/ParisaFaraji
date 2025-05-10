@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+<h2 align="center">🌟 Hey, I'm Parisa Faraji</h2><br><p align="center">💻 Full-Stack Developer | 🎨 Creative Designer | 🚀 Growth-Focused Thinker</p><br><br>---<br><br>### 👩‍💻 A Little About Me<br><br>Hi! I'm Parisa — a passionate developer who loves turning ideas into smart, beautiful, and user-friendly applications.<br><br>Whether it's designing a stunning website, coding a management system with C#, or helping a brand grow online — I bring **tech, creativity, and strategy** together to make things that matter.<br><br>I enjoy solving real-world problems, learning new things, and sharing what I know along the way 💡<br><br>---<br><br>### 🧩 What I Do (and Love!)<br><br>- 🔹 Build software & web apps with **C#**, **ASP.NET**, and 💡 best practices<br>- 🔹 Design modern websites with smooth UX/UI<br>- 🔹 Teach coding with fun, hands-on methods<br>- 🔹 Help businesses grow with marketing & branding ideas<br>- 🔹 Create graphics & content that pop 🎨<br>- 🔹 Animate ideas to life — literally! ✨<br><br>---<br><br>### 🛠 Tech & Tools I Use<br><br>| Category        | Stack & Tools |<br>|----------------|---------------|<br>| 💻 Languages    | C#, JavaScript, HTML, CSS |<br>| ⚙️ Frameworks   | ASP.NET, Entity Framework |<br>| 🎨 Design       | Photoshop |<br>| 🔧 Dev Tools    | Git, GitHub, VS Code, Visual Studio |<br>| 📐 Concepts     | UI/UX, Clean Code, API, SEO Basics |<br><br>---<br><br>### 🚧 Right Now, I'm...<br><br>- Developing smart tools for real-world needs  <br>- Teaching and mentoring developers  <br>- Working on fun side projects that blend **code + creativity**  <br><br>---<br><br><br><br>> 💬 “Code is not just lines — it's a way to shape experiences, solve problems, and express creativity.”<br><br>Thanks for visiting my profile! Let's create something amazing 💫<br>
 
-<!--
-**ParisaFaraji/ParisaFaraji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parisa_faraji22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parisa.farajzadeh.84@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ParisaFaraji&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ParisaFaraji&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParisaFaraji&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ParisaFaraji&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
